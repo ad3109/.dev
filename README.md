@@ -10,16 +10,3 @@ and [more!](https://www.3109.dev/web3-tools/)
 3109's goal is to sharpen the skills of existing Web3 techs and to inform devs/engineers in the Web2 world that are not familiar with Web3. 
 
 If this project sounds interesting to you, please submit a [pull request](https://www.youtube.com/watch?v=YTbRzhQju4c&t=1s) and/or reach out via our [contact page](https://www.3109.dev/contact/). 
-
-# Basic Guidelines:
-* No promotions
-* No inappropriate content
-* No marketing or sponsored content
-* No maximilism, we are 100% token agnostic
-* Please include supporting links and additional resources
-
-Thanks and may the force be with you.
-
-
-# Disclaimer: 
-* 3109 is an open-source Web3 initiative. Nothing contained in this Github repository should be considered financial advice, it is for informational purposes only.
